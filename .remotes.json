@@ -17,5 +17,11 @@
     "url": "https://github.com/epiverse-trace/numberize",
     "via": ["cleanepi"],
     "from": "cleanepi"
+  },
+  {
+    "package": "trending",
+    "url": "https://github.com/reconverse/trending",
+    "via": ["trendeval"],
+    "from": "trendeval"
   }
 ]
