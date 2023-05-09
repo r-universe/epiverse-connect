@@ -29,6 +29,10 @@
 [submodule "finalsize"]
 	path = finalsize
 	url = https://github.com/epiverse-trace/finalsize
+[submodule "fingertipsR"]
+	path = fingertipsR
+	url = https://github.com/rOpenSci/fingertipsR
+	registered = false
 [submodule "iraca"]
 	path = iraca
 	url = https://github.com/epiverse-trace/iraca
