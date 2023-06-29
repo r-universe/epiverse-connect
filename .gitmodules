@@ -35,6 +35,10 @@
 [submodule "linelist"]
 	path = linelist
 	url = https://github.com/epiverse-trace/linelist
+[submodule "purrr"]
+	path = purrr
+	url = https://github.com/tidyverse/purrr
+	registered = false
 [submodule "quickfit"]
 	path = quickfit
 	url = https://github.com/epiverse-trace/quickfit
