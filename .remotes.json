@@ -4,5 +4,11 @@
     "url": "https://github.com/tidyverse/purrr",
     "via": ["serofoi"],
     "from": "serofoi"
+  },
+  {
+    "package": "sivirep",
+    "url": "https://github.com/epiverse-trace/sivirep",
+    "via": ["epiCo"],
+    "from": "epiCo"
   }
 ]
