@@ -1,5 +1,11 @@
 [
   {
+    "package": "bpmodels",
+    "url": "https://github.com/epiverse-trace/bpmodels",
+    "via": ["superspreading"],
+    "from": "superspreading"
+  },
+  {
     "package": "epiparameter",
     "url": "https://github.com/epiverse-trace/epiparameter",
     "via": ["cfr"],
@@ -10,6 +16,12 @@
     "url": "https://github.com/epiverse-trace/epiparameter",
     "via": ["epichains"],
     "from": "epichains"
+  },
+  {
+    "package": "epiparameter",
+    "url": "https://github.com/epiverse-trace/epiparameter",
+    "via": ["superspreading"],
+    "from": "superspreading"
   },
   {
     "package": "fingertipsR",
