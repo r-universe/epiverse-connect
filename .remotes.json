@@ -1,5 +1,11 @@
 [
   {
+    "package": "epiparameter",
+    "url": "https://github.com/epiverse-trace/epiparameter",
+    "via": ["epichains"],
+    "from": "epichains"
+  },
+  {
     "package": "purrr",
     "url": "https://github.com/tidyverse/purrr",
     "via": ["serofoi"],
