@@ -1,4 +1,61 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/epiverse-connect/epiverse-connect.r-universe.dev
 	branch = HEAD
+[submodule "bpmodels"]
+	path = bpmodels
+	url = https://github.com/epiverse-trace/bpmodels
+[submodule "cfr"]
+	path = cfr
+	url = https://github.com/epiverse-trace/cfr
+[submodule "cleanepi"]
+	path = cleanepi
+	url = https://github.com/epiverse-trace/cleanepi
+[submodule "epiCo"]
+	path = epiCo
+	url = https://github.com/epiverse-trace/epiCo
+[submodule "epichains"]
+	path = epichains
+	url = https://github.com/epiverse-trace/epichains
+[submodule "epidemics"]
+	path = epidemics
+	url = https://github.com/epiverse-trace/epidemics
+[submodule "epiparameter"]
+	path = epiparameter
+	url = https://github.com/epiverse-trace/epiparameter
+[submodule "episoap"]
+	path = episoap
+	url = https://github.com/epiverse-trace/episoap
+[submodule "finalsize"]
+	path = finalsize
+	url = https://github.com/epiverse-trace/finalsize
+[submodule "iraca"]
+	path = iraca
+	url = https://github.com/epiverse-trace/iraca
+[submodule "linelist"]
+	path = linelist
+	url = https://github.com/epiverse-trace/linelist
+[submodule "quickfit"]
+	path = quickfit
+	url = https://github.com/epiverse-trace/quickfit
+[submodule "readepi"]
+	path = readepi
+	url = https://github.com/epiverse-trace/readepi
+[submodule "scenarios"]
+	path = scenarios
+	url = https://github.com/epiverse-trace/scenarios
+[submodule "serofoi"]
+	path = serofoi
+	url = https://github.com/epiverse-trace/serofoi
+[submodule "simulist"]
+	path = simulist
+	url = https://github.com/epiverse-trace/simulist
+[submodule "sivirep"]
+	path = sivirep
+	url = https://github.com/epiverse-trace/sivirep
+[submodule "superspreading"]
+	path = superspreading
+	url = https://github.com/epiverse-trace/superspreading
+[submodule "vaccineff"]
+	path = vaccineff
+	url = https://github.com/epiverse-trace/vaccineff
