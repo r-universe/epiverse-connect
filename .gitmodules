@@ -39,6 +39,10 @@
 [submodule "linelist"]
 	path = linelist
 	url = https://github.com/epiverse-trace/linelist
+[submodule "numberize"]
+	path = numberize
+	url = https://github.com/bahadzie/numberize
+	registered = false
 [submodule "purrr"]
 	path = purrr
 	url = https://github.com/tidyverse/purrr
