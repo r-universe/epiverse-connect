@@ -2,6 +2,12 @@
   {
     "package": "bpmodels",
     "url": "https://github.com/epiverse-trace/bpmodels",
+    "via": ["simulist"],
+    "from": "simulist"
+  },
+  {
+    "package": "bpmodels",
+    "url": "https://github.com/epiverse-trace/bpmodels",
     "via": ["superspreading"],
     "from": "superspreading"
   },
@@ -23,6 +29,13 @@
     "url": "https://github.com/epiverse-trace/epiparameter",
     "via": ["epichains"],
     "from": "epichains"
+  },
+  {
+    "package": "epiparameter",
+    "url": "https://github.com/epiverse-trace/epiparameter",
+    "via": ["simulist"],
+    "branch": "reexport_generics",
+    "from": "simulist"
   },
   {
     "package": "epiparameter",
