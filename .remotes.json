@@ -21,12 +21,6 @@
   {
     "package": "epiparameter",
     "url": "https://github.com/epiverse-trace/epiparameter",
-    "via": ["cfr"],
-    "from": "cfr"
-  },
-  {
-    "package": "epiparameter",
-    "url": "https://github.com/epiverse-trace/epiparameter",
     "via": ["epichains"],
     "from": "epichains"
   },
