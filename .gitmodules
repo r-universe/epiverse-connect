@@ -43,10 +43,6 @@
 	path = numberize
 	url = https://github.com/bahadzie/numberize
 	registered = false
-[submodule "purrr"]
-	path = purrr
-	url = https://github.com/tidyverse/purrr
-	registered = false
 [submodule "quickfit"]
 	path = quickfit
 	url = https://github.com/epiverse-trace/quickfit

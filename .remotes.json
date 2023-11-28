@@ -54,11 +54,5 @@
     "url": "https://github.com/bahadzie/numberize",
     "via": ["cleanepi"],
     "from": "cleanepi"
-  },
-  {
-    "package": "purrr",
-    "url": "https://github.com/tidyverse/purrr",
-    "via": ["serofoi"],
-    "from": "serofoi"
   }
 ]
