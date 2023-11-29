@@ -28,7 +28,6 @@
     "package": "epiparameter",
     "url": "https://github.com/epiverse-trace/epiparameter",
     "via": ["simulist"],
-    "branch": "reexport_generics",
     "from": "simulist"
   },
   {
