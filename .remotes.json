@@ -6,6 +6,12 @@
     "from": "simulist"
   },
   {
+    "package": "bpmodels",
+    "url": "https://github.com/epiverse-trace/bpmodels",
+    "via": ["superspreading"],
+    "from": "superspreading"
+  },
+  {
     "package": "epidemics",
     "url": "https://github.com/epiverse-trace/epidemics",
     "via": ["scenarios"],
