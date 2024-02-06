@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/epiverse-connect/epiverse-connect.r-universe.dev
 	branch = HEAD
+[submodule "ColOpenData"]
+	path = ColOpenData
+	url = https://github.com/epiverse-trace/ColOpenData
 [submodule "bpmodels"]
 	path = bpmodels
 	url = https://github.com/epiverse-trace/bpmodels
@@ -41,8 +44,7 @@
 	url = https://github.com/epiverse-trace/linelist
 [submodule "numberize"]
 	path = numberize
-	url = https://github.com/bahadzie/numberize
-	registered = false
+	url = https://github.com/epiverse-trace/numberize
 [submodule "quickfit"]
 	path = quickfit
 	url = https://github.com/epiverse-trace/quickfit
