@@ -31,14 +31,8 @@
     "from": "readepi"
   },
   {
-    "package": "linelist",
-    "url": "https://github.com/epiverse-trace/linelist",
-    "via": ["cleanepi"],
-    "from": "cleanepi"
-  },
-  {
     "package": "numberize",
-    "url": "https://github.com/bahadzie/numberize",
+    "url": "https://github.com/epiverse-trace/numberize",
     "via": ["cleanepi"],
     "from": "cleanepi"
   }
