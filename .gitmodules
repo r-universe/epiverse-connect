@@ -8,9 +8,7 @@
 [submodule "bpmodels"]
 	path = bpmodels
 	url = https://github.com/epiverse-trace/bpmodels
-[submodule "cfr"]
-	path = cfr
-	url = https://github.com/epiverse-trace/cfr
+	registered = false
 [submodule "cleanepi"]
 	path = cleanepi
 	url = https://github.com/epiverse-trace/cleanepi
@@ -26,12 +24,10 @@
 [submodule "epiparameter"]
 	path = epiparameter
 	url = https://github.com/epiverse-trace/epiparameter
+	registered = false
 [submodule "episoap"]
 	path = episoap
 	url = https://github.com/epiverse-trace/episoap
-[submodule "finalsize"]
-	path = finalsize
-	url = https://github.com/epiverse-trace/finalsize
 [submodule "fingertipsR"]
 	path = fingertipsR
 	url = https://github.com/rOpenSci/fingertipsR
@@ -39,9 +35,6 @@
 [submodule "iraca"]
 	path = iraca
 	url = https://github.com/epiverse-trace/iraca
-[submodule "linelist"]
-	path = linelist
-	url = https://github.com/epiverse-trace/linelist
 [submodule "numberize"]
 	path = numberize
 	url = https://github.com/epiverse-trace/numberize
@@ -54,18 +47,9 @@
 [submodule "scenarios"]
 	path = scenarios
 	url = https://github.com/epiverse-trace/scenarios
-[submodule "serofoi"]
-	path = serofoi
-	url = https://github.com/epiverse-trace/serofoi
-[submodule "simulist"]
-	path = simulist
-	url = https://github.com/epiverse-trace/simulist
 [submodule "sivirep"]
 	path = sivirep
 	url = https://github.com/epiverse-trace/sivirep
-[submodule "superspreading"]
-	path = superspreading
-	url = https://github.com/epiverse-trace/superspreading
 [submodule "vaccineff"]
 	path = vaccineff
 	url = https://github.com/epiverse-trace/vaccineff
