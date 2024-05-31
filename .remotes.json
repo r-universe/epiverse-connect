@@ -1,28 +1,10 @@
 [
   {
-    "package": "bpmodels",
-    "url": "https://github.com/epiverse-trace/bpmodels",
-    "via": ["superspreading"],
-    "from": "superspreading"
-  },
-  {
     "package": "epidemics",
     "url": "https://github.com/epiverse-trace/epidemics",
     "via": ["scenarios"],
     "branch": "f1275c",
     "from": "scenarios"
-  },
-  {
-    "package": "epiparameter",
-    "url": "https://github.com/epiverse-trace/epiparameter",
-    "via": ["simulist"],
-    "from": "simulist"
-  },
-  {
-    "package": "epiparameter",
-    "url": "https://github.com/epiverse-trace/epiparameter",
-    "via": ["superspreading"],
-    "from": "superspreading"
   },
   {
     "package": "fingertipsR",
