@@ -1,24 +1,5 @@
 [
   {
-    "package": "epidemics",
-    "url": "https://github.com/epiverse-trace/epidemics",
-    "via": ["scenarios"],
-    "branch": "f1275c",
-    "from": "scenarios"
-  },
-  {
-    "package": "fingertipsR",
-    "url": "https://github.com/rOpenSci/fingertipsR",
-    "via": ["readepi"],
-    "from": "readepi"
-  },
-  {
-    "package": "numberize",
-    "url": "https://github.com/epiverse-trace/numberize",
-    "via": ["cleanepi"],
-    "from": "cleanepi"
-  },
-  {
     "package": "trending",
     "url": "https://github.com/reconverse/trending",
     "via": ["trendeval"],

@@ -158,11 +158,6 @@
 [submodule "epicontacts"]
 	path = epicontacts
 	url = https://github.com/reconhub/epicontacts
-[submodule "epidemics"]
-	path = epidemics
-	url = https://github.com/epiverse-trace/epidemics
-	branch = f1275c
-	registered = false
 [submodule "epiflows"]
 	path = epiflows
 	url = https://github.com/reconhub/epiflows
@@ -190,10 +185,6 @@
 [submodule "finalsize"]
 	path = finalsize
 	url = https://github.com/epiverse-trace/finalsize
-[submodule "fingertipsR"]
-	path = fingertipsR
-	url = https://github.com/rOpenSci/fingertipsR
-	registered = false
 [submodule "i2extras"]
 	path = i2extras
 	url = https://github.com/reconverse/i2extras
@@ -236,10 +227,6 @@
 [submodule "nosoi"]
 	path = nosoi
 	url = https://github.com/slequime/nosoi
-[submodule "numberize"]
-	path = numberize
-	url = https://github.com/epiverse-trace/numberize
-	registered = false
 [submodule "o2geosocial"]
 	path = o2geosocial
 	url = https://github.com/alxsrobert/o2geosocial
