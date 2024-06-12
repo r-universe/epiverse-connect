@@ -2,46 +2,280 @@
 	path = .registry
 	url = https://github.com/epiverse-connect/epiverse-connect.r-universe.dev
 	branch = HEAD
-[submodule "ColOpenData"]
-	path = ColOpenData
-	url = https://github.com/epiverse-trace/ColOpenData
-[submodule "cleanepi"]
-	path = cleanepi
-	url = https://github.com/epiverse-trace/cleanepi
-[submodule "epiCo"]
-	path = epiCo
-	url = https://github.com/epiverse-trace/epiCo
-[submodule "epichains"]
-	path = epichains
-	url = https://github.com/epiverse-trace/epichains
+[submodule "AMR"]
+	path = AMR
+	url = https://github.com/msberends/AMR
+[submodule "Bernadette"]
+	path = Bernadette
+	url = https://github.com/bernadette-eu/Bernadette
+[submodule "COVID19"]
+	path = COVID19
+	url = https://github.com/covid19datahub/COVID19
+[submodule "CovidMutations"]
+	path = CovidMutations
+	url = https://github.com/MSQ-123/CovidMutations
+[submodule "DSAIDE"]
+	path = DSAIDE
+	url = https://github.com/ahgroup/DSAIDE
+[submodule "EnvStats"]
+	path = EnvStats
+	url = https://github.com/alexkowa/EnvStats
+[submodule "Epi"]
+	path = Epi
+	url = https://github.com/cran/Epi
+[submodule "EpiContactTrace"]
+	path = EpiContactTrace
+	url = https://github.com/stewid/EpiContactTrace
+[submodule "EpiCurve"]
+	path = EpiCurve
+	url = https://github.com/IamKDO/EpiCurve
+[submodule "EpiEstim"]
+	path = EpiEstim
+	url = https://github.com/mrc-ide/EpiEstim
+[submodule "EpiILM"]
+	path = EpiILM
+	url = https://github.com/waleedalmutiry/EpiILM
+[submodule "EpiILMCT"]
+	path = EpiILMCT
+	url = https://github.com/waleedalmutiry/EpiILMCT
+[submodule "EpiModel"]
+	path = EpiModel
+	url = https://github.com/EpiModel/EpiModel
+[submodule "EpiNow2"]
+	path = EpiNow2
+	url = https://github.com/epiforecasts/EpiNow2
+[submodule "EpiReport"]
+	path = EpiReport
+	url = https://github.com/EU-ECDC/EpiReport
+[submodule "EpiSignalDetection"]
+	path = EpiSignalDetection
+	url = https://github.com/EU-ECDC/EpiSignalDetection
+[submodule "HIMA"]
+	path = HIMA
+	url = https://github.com/YinanZheng/HIMA
+[submodule "NADA"]
+	path = NADA
+	url = https://github.com/cran/NADA
+[submodule "R0"]
+	path = R0
+	url = https://github.com/tobadia/R0
+[submodule "RSurveillance"]
+	path = RSurveillance
+	url = https://github.com/roStats/RSurveillance
+[submodule "SimInf"]
+	path = SimInf
+	url = https://github.com/stewid/SimInf
+[submodule "SpatialEpi"]
+	path = SpatialEpi
+	url = https://github.com/rudeboybert/SpatialEpi
+[submodule "TransPhylo"]
+	path = TransPhylo
+	url = https://github.com/xavierdidelot/TransPhylo
+[submodule "adegenet"]
+	path = adegenet
+	url = https://github.com/thibautjombart/adegenet
+[submodule "apisensr"]
+	path = apisensr
+	url = https://github.com/dhaine/apisensr
+[submodule "argo"]
+	path = argo
+	url = https://github.com/cran/argo
+[submodule "bets.covid19"]
+	path = bets.covid19
+	url = https://github.com/qingyuanzhao/bets.covid19
+[submodule "bkmr"]
+	path = bkmr
+	url = https://github.com/jenfb/bkmr
+[submodule "cfr"]
+	path = cfr
+	url = https://github.com/epiverse-trace/cfr
+[submodule "cholera"]
+	path = cholera
+	url = https://github.com/lindbrook/cholera
+[submodule "cmprsk"]
+	path = cmprsk
+	url = https://github.com/cran/cmprsk
+[submodule "coarseDataTools"]
+	path = coarseDataTools
+	url = https://github.com/nickreich/coarseDataTools
+[submodule "contactdata"]
+	path = contactdata
+	url = https://github.com/bisaloo/contactdata
+[submodule "corona"]
+	path = corona
+	url = https://github.com/cran/corona
+[submodule "coronavirus"]
+	path = coronavirus
+	url = https://github.com/RamiKrispin/coronavirus
+[submodule "covid19.analytics"]
+	path = covid19.analytics
+	url = https://github.com/mponce0/covid19.analytics
+[submodule "covid19br"]
+	path = covid19br
+	url = https://github.com/fndemarqui/covid19br
+[submodule "covid19dbcand"]
+	path = covid19dbcand
+	url = https://github.com/MohammedFCIS/covid19dbcand
+[submodule "covid19france"]
+	path = covid19france
+	url = https://github.com/Covid19R/covid19france
+[submodule "covid19italy"]
+	path = covid19italy
+	url = https://github.com/RamiKrispin/covid19italy
+[submodule "covid19sf"]
+	path = covid19sf
+	url = https://github.com/RamiKrispin/covid19sf
+[submodule "covid19swiss"]
+	path = covid19swiss
+	url = https://github.com/Covid19R/covid19swiss
+[submodule "covid19us"]
+	path = covid19us
+	url = https://github.com/aedobbyn/covid19us
+[submodule "dbparser"]
+	path = dbparser
+	url = https://github.com/ropensci/dbparser
+[submodule "dde"]
+	path = dde
+	url = https://github.com/mrc-ide/dde
+[submodule "deSolve"]
+	path = deSolve
+	url = https://github.com/cran/deSolve
+[submodule "earlyR"]
+	path = earlyR
+	url = https://github.com/reconhub/earlyR
+[submodule "endtoend"]
+	path = endtoend
+	url = https://github.com/cran/endtoend
+[submodule "epiDisplay"]
+	path = epiDisplay
+	url = https://github.com/cran/epiDisplay
+[submodule "epiR"]
+	path = epiR
+	url = https://github.com/mstevenson888/epiR
+[submodule "epibasix"]
+	path = epibasix
+	url = https://github.com/cran/epibasix
+[submodule "epicontacts"]
+	path = epicontacts
+	url = https://github.com/reconhub/epicontacts
 [submodule "epidemics"]
 	path = epidemics
 	url = https://github.com/epiverse-trace/epidemics
-[submodule "episoap"]
-	path = episoap
-	url = https://github.com/epiverse-trace/episoap
+	branch = f1275c
+	registered = false
+[submodule "epiflows"]
+	path = epiflows
+	url = https://github.com/reconhub/epiflows
+[submodule "epimdr"]
+	path = epimdr
+	url = https://github.com/objornstad/epimdr
+[submodule "epinet"]
+	path = epinet
+	url = https://github.com/cran/epinet
+[submodule "episensr"]
+	path = episensr
+	url = https://github.com/dhaine/episensr
+[submodule "epitools"]
+	path = epitools
+	url = https://github.com/cran/epitools
+[submodule "epitrix"]
+	path = epitrix
+	url = https://github.com/reconhub/epitrix
+[submodule "epitweetr"]
+	path = epitweetr
+	url = https://github.com/EU-ECDC/epitweetr
+[submodule "etm"]
+	path = etm
+	url = https://github.com/mclements/etm
+[submodule "finalsize"]
+	path = finalsize
+	url = https://github.com/epiverse-trace/finalsize
 [submodule "fingertipsR"]
 	path = fingertipsR
 	url = https://github.com/rOpenSci/fingertipsR
 	registered = false
-[submodule "iraca"]
-	path = iraca
-	url = https://github.com/epiverse-trace/iraca
+[submodule "i2extras"]
+	path = i2extras
+	url = https://github.com/reconverse/i2extras
+[submodule "incidence"]
+	path = incidence
+	url = https://github.com/reconhub/incidence
+[submodule "incidence2"]
+	path = incidence2
+	url = https://github.com/reconverse/incidence2
+[submodule "linelist"]
+	path = linelist
+	url = https://github.com/epiverse-trace/linelist
+[submodule "malariaAtlas"]
+	path = malariaAtlas
+	url = https://github.com/malaria-atlas-project/malariaAtlas
+[submodule "mediation"]
+	path = mediation
+	url = https://github.com/kosukeimai/mediation
+[submodule "mem"]
+	path = mem
+	url = https://github.com/lozalojo/mem
+[submodule "memapp"]
+	path = memapp
+	url = https://github.com/lozalojo/memapp
+[submodule "mma"]
+	path = mma
+	url = https://github.com/cran/mma
+[submodule "modelSSE"]
+	path = modelSSE
+	url = https://github.com/cran/modelSSE
+[submodule "mstate"]
+	path = mstate
+	url = https://github.com/hputter/mstate
+[submodule "nbTransmission"]
+	path = nbTransmission
+	url = https://github.com/sarahleavitt/nbTransmission
+[submodule "nhanesA"]
+	path = nhanesA
+	url = https://github.com/cjendres1/nhanes
+[submodule "nosoi"]
+	path = nosoi
+	url = https://github.com/slequime/nosoi
 [submodule "numberize"]
 	path = numberize
 	url = https://github.com/epiverse-trace/numberize
-[submodule "quickfit"]
-	path = quickfit
-	url = https://github.com/epiverse-trace/quickfit
-[submodule "readepi"]
-	path = readepi
-	url = https://github.com/epiverse-trace/readepi
-[submodule "scenarios"]
-	path = scenarios
-	url = https://github.com/epiverse-trace/scenarios
-[submodule "sivirep"]
-	path = sivirep
-	url = https://github.com/epiverse-trace/sivirep
-[submodule "vaccineff"]
-	path = vaccineff
-	url = https://github.com/epiverse-trace/vaccineff
+	registered = false
+[submodule "o2geosocial"]
+	path = o2geosocial
+	url = https://github.com/alxsrobert/o2geosocial
+[submodule "odin"]
+	path = odin
+	url = https://github.com/mrc-ide/odin
+[submodule "outbreaker2"]
+	path = outbreaker2
+	url = https://github.com/reconhub/outbreaker2
+[submodule "outbreaks"]
+	path = outbreaks
+	url = https://github.com/reconhub/outbreaks
+[submodule "pomp"]
+	path = pomp
+	url = https://github.com/kingaa/pomp
+[submodule "popEpi"]
+	path = popEpi
+	url = https://github.com/FinnishCancerRegistry/popEpi
+[submodule "powerSurvEpi"]
+	path = powerSurvEpi
+	url = https://github.com/cran/powerSurvEpi
+[submodule "riskCommunicator"]
+	path = riskCommunicator
+	url = https://github.com/jgrembi/riskCommunicator
+[submodule "socialmixr"]
+	path = socialmixr
+	url = https://github.com/epiforecasts/socialmixr
+[submodule "surveillance"]
+	path = surveillance
+	url = https://github.com/cran/surveillance
+[submodule "trendeval"]
+	path = trendeval
+	url = https://github.com/reconverse/trendeval
+[submodule "trending"]
+	path = trending
+	url = https://github.com/reconverse/trending
+[submodule "tsiR"]
+	path = tsiR
+	url = https://github.com/adbecker/tsiR
