@@ -161,9 +161,6 @@
 [submodule "epiflows"]
 	path = epiflows
 	url = https://github.com/reconhub/epiflows
-[submodule "epimdr"]
-	path = epimdr
-	url = https://github.com/objornstad/epimdr
 [submodule "epinet"]
 	path = epinet
 	url = https://github.com/cran/epinet
@@ -179,15 +176,13 @@
 [submodule "epitweetr"]
 	path = epitweetr
 	url = https://github.com/EU-ECDC/epitweetr
+	subdir = epitweetr
 [submodule "etm"]
 	path = etm
 	url = https://github.com/mclements/etm
 [submodule "finalsize"]
 	path = finalsize
 	url = https://github.com/epiverse-trace/finalsize
-[submodule "i2extras"]
-	path = i2extras
-	url = https://github.com/reconverse/i2extras
 [submodule "incidence"]
 	path = incidence
 	url = https://github.com/reconhub/incidence
