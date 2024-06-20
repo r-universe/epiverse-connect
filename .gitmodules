@@ -92,6 +92,9 @@
 [submodule "cholera"]
 	path = cholera
 	url = https://github.com/lindbrook/cholera
+[submodule "cleanepi"]
+	path = cleanepi
+	url = https://github.com/epiverse-trace/cleanepi
 [submodule "cmprsk"]
 	path = cmprsk
 	url = https://github.com/cran/cmprsk
@@ -189,6 +192,9 @@
 [submodule "incidence2"]
 	path = incidence2
 	url = https://github.com/reconverse/incidence2
+[submodule "inctools"]
+	path = inctools
+	url = https://github.com/SACEMA/inctools
 [submodule "linelist"]
 	path = linelist
 	url = https://github.com/epiverse-trace/linelist
