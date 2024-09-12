@@ -101,6 +101,9 @@
 [submodule "coarseDataTools"]
 	path = coarseDataTools
 	url = https://github.com/nickreich/coarseDataTools
+[submodule "colmozzie"]
+	path = colmozzie
+	url = https://github.com/thiyangt/colmozzie
 [submodule "contactdata"]
 	path = contactdata
 	url = https://github.com/bisaloo/contactdata
@@ -143,6 +146,12 @@
 [submodule "deSolve"]
 	path = deSolve
 	url = https://github.com/cran/deSolve
+[submodule "denguedatahub"]
+	path = denguedatahub
+	url = https://github.com/thiyangt/denguedatahub
+[submodule "diyar"]
+	path = diyar
+	url = https://github.com/OlisaNsonwu/diyar
 [submodule "earlyR"]
 	path = earlyR
 	url = https://github.com/reconhub/earlyR
@@ -252,6 +261,9 @@
 [submodule "riskCommunicator"]
 	path = riskCommunicator
 	url = https://github.com/jgrembi/riskCommunicator
+[submodule "shinySIR"]
+	path = shinySIR
+	url = https://github.com/SineadMorris/shinySIR
 [submodule "socialmixr"]
 	path = socialmixr
 	url = https://github.com/epiforecasts/socialmixr
