@@ -29,6 +29,9 @@
 [submodule "EpiCurve"]
 	path = EpiCurve
 	url = https://github.com/IamKDO/EpiCurve
+[submodule "EpiDynamics"]
+	path = EpiDynamics
+	url = https://github.com/oswaldosantos/EpiDynamics
 [submodule "EpiEstim"]
 	path = EpiEstim
 	url = https://github.com/mrc-ide/EpiEstim
@@ -50,6 +53,9 @@
 [submodule "EpiSignalDetection"]
 	path = EpiSignalDetection
 	url = https://github.com/EU-ECDC/EpiSignalDetection
+[submodule "EpiStats"]
+	path = EpiStats
+	url = https://github.com/cran/EpiStats
 [submodule "HIMA"]
 	path = HIMA
 	url = https://github.com/YinanZheng/HIMA
@@ -158,6 +164,9 @@
 [submodule "endtoend"]
 	path = endtoend
 	url = https://github.com/cran/endtoend
+[submodule "epiCleanr"]
+	path = epiCleanr
+	url = https://github.com/truenomad/epiCleanr
 [submodule "epiDisplay"]
 	path = epiDisplay
 	url = https://github.com/cran/epiDisplay
@@ -167,18 +176,42 @@
 [submodule "epibasix"]
 	path = epibasix
 	url = https://github.com/cran/epibasix
+[submodule "epicasting"]
+	path = epicasting
+	url = https://github.com/cran/epicasting
 [submodule "epicontacts"]
 	path = epicontacts
 	url = https://github.com/reconhub/epicontacts
+[submodule "epidatr"]
+	path = epidatr
+	url = https://github.com/cmu-delphi/epidatr
+[submodule "epidm"]
+	path = epidm
+	url = https://github.com/alexbhatt/epidm
 [submodule "epiflows"]
 	path = epiflows
 	url = https://github.com/reconhub/epiflows
+[submodule "epigrowthfit"]
+	path = epigrowthfit
+	url = https://github.com/davidearn/epigrowthfit
+[submodule "epikit"]
+	path = epikit
+	url = https://github.com/R4EPI/epikit
+[submodule "epimdr2"]
+	path = epimdr2
+	url = https://github.com/objornstad/epimdr2>
 [submodule "epinet"]
 	path = epinet
 	url = https://github.com/cran/epinet
+[submodule "epiphy"]
+	path = epiphy
+	url = https://github.com/chgigot/epiphy
 [submodule "episensr"]
 	path = episensr
 	url = https://github.com/dhaine/episensr
+[submodule "epitab"]
+	path = epitab
+	url = https://github.com/stulacy/epitab
 [submodule "epitools"]
 	path = epitools
 	url = https://github.com/cran/epitools
@@ -189,6 +222,12 @@
 	path = epitweetr
 	url = https://github.com/EU-ECDC/epitweetr
 	subdir = epitweetr
+[submodule "epiworldR"]
+	path = epiworldR
+	url = https://github.com/UofUEpiBio/epiworldR
+[submodule "epiworldRShiny"]
+	path = epiworldRShiny
+	url = https://github.com/UofUEpiBio/epiworldRShiny
 [submodule "etm"]
 	path = etm
 	url = https://github.com/mclements/etm
