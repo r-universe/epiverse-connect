@@ -152,6 +152,10 @@
 [submodule "deSolve"]
 	path = deSolve
 	url = https://github.com/cran/deSolve
+[submodule "delphidocs"]
+	path = delphidocs
+	url = https://github.com/cmu-delphi/delphidocs
+	registered = false
 [submodule "denguedatahub"]
 	path = denguedatahub
 	url = https://github.com/thiyangt/denguedatahub
