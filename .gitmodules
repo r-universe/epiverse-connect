@@ -203,7 +203,7 @@
 	url = https://github.com/R4EPI/epikit
 [submodule "epimdr2"]
 	path = epimdr2
-	url = https://github.com/objornstad/epimdr2>
+	url = https://github.com/objornstad/epimdr2
 [submodule "epinet"]
 	path = epinet
 	url = https://github.com/cran/epinet
