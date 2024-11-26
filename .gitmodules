@@ -17,9 +17,6 @@
 [submodule "DSAIDE"]
 	path = DSAIDE
 	url = https://github.com/ahgroup/DSAIDE
-[submodule "EnvStats"]
-	path = EnvStats
-	url = https://github.com/alexkowa/EnvStats
 [submodule "Epi"]
 	path = Epi
 	url = https://github.com/cran/Epi
@@ -56,12 +53,6 @@
 [submodule "EpiStats"]
 	path = EpiStats
 	url = https://github.com/cran/EpiStats
-[submodule "HIMA"]
-	path = HIMA
-	url = https://github.com/YinanZheng/HIMA
-[submodule "NADA"]
-	path = NADA
-	url = https://github.com/cran/NADA
 [submodule "R0"]
 	path = R0
 	url = https://github.com/tobadia/R0
@@ -89,9 +80,6 @@
 [submodule "bets.covid19"]
 	path = bets.covid19
 	url = https://github.com/qingyuanzhao/bets.covid19
-[submodule "bkmr"]
-	path = bkmr
-	url = https://github.com/jenfb/bkmr
 [submodule "cfr"]
 	path = cfr
 	url = https://github.com/epiverse-trace/cfr
@@ -253,18 +241,12 @@
 [submodule "malariaAtlas"]
 	path = malariaAtlas
 	url = https://github.com/malaria-atlas-project/malariaAtlas
-[submodule "mediation"]
-	path = mediation
-	url = https://github.com/kosukeimai/mediation
 [submodule "mem"]
 	path = mem
 	url = https://github.com/lozalojo/mem
 [submodule "memapp"]
 	path = memapp
 	url = https://github.com/lozalojo/memapp
-[submodule "mma"]
-	path = mma
-	url = https://github.com/cran/mma
 [submodule "modelSSE"]
 	path = modelSSE
 	url = https://github.com/cran/modelSSE
