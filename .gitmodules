@@ -32,6 +32,9 @@
 [submodule "EpiEstim"]
 	path = EpiEstim
 	url = https://github.com/mrc-ide/EpiEstim
+[submodule "EpiForsk"]
+	path = EpiForsk
+	url = https://github.com/Laksafoss/EpiForsk
 [submodule "EpiILM"]
 	path = EpiILM
 	url = https://github.com/waleedalmutiry/EpiILM
@@ -159,6 +162,9 @@
 [submodule "epiCleanr"]
 	path = epiCleanr
 	url = https://github.com/truenomad/epiCleanr
+[submodule "epiCo"]
+	path = epiCo
+	url = https://github.com/epiverse-trace/epiCo
 [submodule "epiDisplay"]
 	path = epiDisplay
 	url = https://github.com/cran/epiDisplay
@@ -171,6 +177,9 @@
 [submodule "epicasting"]
 	path = epicasting
 	url = https://github.com/cran/epicasting
+[submodule "epichains"]
+	path = epichains
+	url = https://github.com/epiverse-trace/epichains
 [submodule "epicontacts"]
 	path = epicontacts
 	url = https://github.com/reconhub/epicontacts
@@ -195,6 +204,12 @@
 [submodule "epinet"]
 	path = epinet
 	url = https://github.com/cran/epinet
+[submodule "epiparameter"]
+	path = epiparameter
+	url = https://github.com/epiverse-trace/epiparameter
+[submodule "epiparameterDB"]
+	path = epiparameterDB
+	url = https://github.com/epiverse-trace/epiparameterDB
 [submodule "epiphy"]
 	path = epiphy
 	url = https://github.com/chgigot/epiphy
@@ -223,9 +238,15 @@
 [submodule "etm"]
 	path = etm
 	url = https://github.com/mclements/etm
+[submodule "excessmort"]
+	path = excessmort
+	url = https://github.com/rafalab/excessmort
 [submodule "finalsize"]
 	path = finalsize
 	url = https://github.com/epiverse-trace/finalsize
+[submodule "hmsidwR"]
+	path = hmsidwR
+	url = https://github.com/Fgazzelloni/hmsidwR
 [submodule "incidence"]
 	path = incidence
 	url = https://github.com/reconhub/incidence
@@ -289,6 +310,9 @@
 [submodule "shinySIR"]
 	path = shinySIR
 	url = https://github.com/SineadMorris/shinySIR
+[submodule "sivirep"]
+	path = sivirep
+	url = https://github.com/epiverse-trace/sivirep
 [submodule "socialmixr"]
 	path = socialmixr
 	url = https://github.com/epiforecasts/socialmixr
@@ -304,3 +328,6 @@
 [submodule "tsiR"]
 	path = tsiR
 	url = https://github.com/adbecker/tsiR
+[submodule "vaccineff"]
+	path = vaccineff
+	url = https://github.com/epiverse-trace/vaccineff
