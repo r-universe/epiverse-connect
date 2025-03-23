@@ -5,6 +5,12 @@
 [submodule "AMR"]
 	path = AMR
 	url = https://github.com/msberends/AMR
+[submodule "ATQ"]
+	path = ATQ
+	url = https://github.com/vjoshy/ATQ_Surveillance_Package
+[submodule "BayesianFitForecast"]
+	path = BayesianFitForecast
+	url = https://github.com/gchowell/BayesianFitForecast
 [submodule "Bernadette"]
 	path = Bernadette
 	url = https://github.com/bernadette-eu/Bernadette
@@ -17,6 +23,9 @@
 [submodule "DSAIDE"]
 	path = DSAIDE
 	url = https://github.com/ahgroup/DSAIDE
+[submodule "EVI"]
+	path = EVI
+	url = https://github.com/ku-awdc/EVI
 [submodule "Epi"]
 	path = Epi
 	url = https://github.com/cran/Epi
@@ -41,6 +50,9 @@
 [submodule "EpiILMCT"]
 	path = EpiILMCT
 	url = https://github.com/waleedalmutiry/EpiILMCT
+[submodule "EpiInvert"]
+	path = EpiInvert
+	url = https://github.com/lalvarezmat/EpiInvert
 [submodule "EpiModel"]
 	path = EpiModel
 	url = https://github.com/EpiModel/EpiModel
@@ -74,6 +86,9 @@
 [submodule "adegenet"]
 	path = adegenet
 	url = https://github.com/thibautjombart/adegenet
+[submodule "aedseo"]
+	path = aedseo
+	url = https://github.com/ssi-dk/aedseo
 [submodule "apisensr"]
 	path = apisensr
 	url = https://github.com/dhaine/apisensr
@@ -83,6 +98,9 @@
 [submodule "bets.covid19"]
 	path = bets.covid19
 	url = https://github.com/qingyuanzhao/bets.covid19
+[submodule "cercospoRa"]
+	path = cercospoRa
+	url = https://github.com/PaulMelloy/cercospoRa
 [submodule "cfr"]
 	path = cfr
 	url = https://github.com/epiverse-trace/cfr
@@ -134,6 +152,9 @@
 [submodule "covid19us"]
 	path = covid19us
 	url = https://github.com/aedobbyn/covid19us
+[submodule "dataquieR"]
+	path = dataquieR
+	url = https://github.com/cran/dataquieR
 [submodule "dbparser"]
 	path = dbparser
 	url = https://github.com/ropensci/dbparser
@@ -156,6 +177,9 @@
 [submodule "earlyR"]
 	path = earlyR
 	url = https://github.com/reconhub/earlyR
+[submodule "eesim"]
+	path = eesim
+	url = https://github.com/cran/eesim
 [submodule "endtoend"]
 	path = endtoend
 	url = https://github.com/cran/endtoend
@@ -189,6 +213,9 @@
 [submodule "epidm"]
 	path = epidm
 	url = https://github.com/alexbhatt/epidm
+[submodule "epifitter"]
+	path = epifitter
+	url = https://github.com/AlvesKS/epifitter
 [submodule "epiflows"]
 	path = epiflows
 	url = https://github.com/reconhub/epiflows
@@ -244,6 +271,12 @@
 [submodule "finalsize"]
 	path = finalsize
 	url = https://github.com/epiverse-trace/finalsize
+[submodule "genSEIR"]
+	path = genSEIR
+	url = https://github.com/selcukorkmaz/genSEIR
+[submodule "ggsurveillance"]
+	path = ggsurveillance
+	url = https://github.com/biostats-dev/ggsurveillance
 [submodule "hmsidwR"]
 	path = hmsidwR
 	url = https://github.com/Fgazzelloni/hmsidwR
@@ -259,6 +292,9 @@
 [submodule "linelist"]
 	path = linelist
 	url = https://github.com/epiverse-trace/linelist
+[submodule "linelistBayes"]
+	path = linelistBayes
+	url = https://github.com/cmilando/linelistBayes
 [submodule "malariaAtlas"]
 	path = malariaAtlas
 	url = https://github.com/malaria-atlas-project/malariaAtlas
@@ -295,6 +331,9 @@
 [submodule "outbreaks"]
 	path = outbreaks
 	url = https://github.com/reconhub/outbreaks
+[submodule "phylepic"]
+	path = phylepic
+	url = https://github.com/cidm-ph/phylepic
 [submodule "pomp"]
 	path = pomp
 	url = https://github.com/kingaa/pomp
@@ -307,6 +346,9 @@
 [submodule "riskCommunicator"]
 	path = riskCommunicator
 	url = https://github.com/jgrembi/riskCommunicator
+[submodule "rplanes"]
+	path = rplanes
+	url = https://github.com/signaturescience/rplanes
 [submodule "shinySIR"]
 	path = shinySIR
 	url = https://github.com/SineadMorris/shinySIR
@@ -316,9 +358,15 @@
 [submodule "socialmixr"]
 	path = socialmixr
 	url = https://github.com/epiforecasts/socialmixr
+[submodule "superspreading"]
+	path = superspreading
+	url = https://github.com/epiverse-trace/superspreading
 [submodule "surveillance"]
 	path = surveillance
 	url = https://github.com/cran/surveillance
+[submodule "tidyrates"]
+	path = tidyrates
+	url = https://github.com/rfsaldanha/tidyrates
 [submodule "trendeval"]
 	path = trendeval
 	url = https://github.com/reconverse/trendeval
