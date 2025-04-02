@@ -331,9 +331,6 @@
 [submodule "outbreaks"]
 	path = outbreaks
 	url = https://github.com/reconhub/outbreaks
-[submodule "pcpr"]
-	path = pcpr
-	url = https://github.com/Columbia-PRIME/pcpr
 [submodule "phylepic"]
 	path = phylepic
 	url = https://github.com/cidm-ph/phylepic
