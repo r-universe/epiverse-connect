@@ -352,6 +352,9 @@
 [submodule "shinySIR"]
 	path = shinySIR
 	url = https://github.com/SineadMorris/shinySIR
+[submodule "simulist"]
+	path = simulist
+	url = https://github.com/epiverse-trace/simulist
 [submodule "sivirep"]
 	path = sivirep
 	url = https://github.com/epiverse-trace/sivirep
