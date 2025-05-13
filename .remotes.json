@@ -4,11 +4,5 @@
     "url": "https://github.com/cmu-delphi/delphidocs",
     "via": ["epidatr"],
     "from": "epidatr"
-  },
-  {
-    "package": "epiworldR",
-    "url": "https://github.com/UofUEpiBio/epiworldR",
-    "via": ["epiworldRShiny"],
-    "from": "epiworldRShiny"
   }
 ]
